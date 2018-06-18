@@ -20,7 +20,7 @@ except ImportError:
 
 SCOPES = 'https://www.googleapis.com/auth/calendar'
 # 以下の変数にクライアントのクレデンシャル情報が入ったJSONファイルの名前を書いておく
-CLIENT_SECRET_FILE = 'hogehoge.json'
+CLIENT_SECRET_FILE = 'json/hogehoge.json'
 APPLICATION_NAME = 'Google Calendar API Python Quickstart'
 
 
